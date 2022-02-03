@@ -76,10 +76,19 @@ width:100px;
 position: absolute;
 top: 300px;
 left: 100px;
+background-color: #5DA6A6;
+height: 100px;
+width:100px;
+}
+.square11{
+position: absolute;
+top: 200px;
+left: 100px;
 background-color: #A8AD80;
 height: 100px;
 width:100px;
 }
+
 
 
 
