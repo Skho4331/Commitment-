@@ -6,6 +6,7 @@ body {
 }
 
 .container{
+  position: relative;
   background-color: #FFF2E0;
   height: 350px;
   width: 50vw;
@@ -40,12 +41,23 @@ width:50px;
 background-color: #9E1064;
 height: 50px;
 width:50px;
+position
 }
 .square6{
 background-color: #7D1FA6;
 height: 50px;
 width:50px;
 }
+.square7{
+position: absolute;
+top: 0px;
+left: 50px;
+background-color: #7D1FA6;
+height: 50px;
+width:50px;
+}
+
+
 header{
 text-align:center;
 }
