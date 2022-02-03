@@ -11,7 +11,10 @@ body {
   background-color: #FFF2E0;
   height: 700px;
   width: 200px;
+  align-content:center;
 }
+
+
 
 .square {
 background-color: #A63E26;
