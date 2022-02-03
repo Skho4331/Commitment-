@@ -123,6 +123,14 @@ background-color:#BF0449;
 height: 100px;
 width:100px;
 }
+.squareC{
+position: absolute;
+top: 200px;
+left: 400px;
+background-color:#7D1FA6;
+height: 100px;
+width:100px;
+}
 
 
 
