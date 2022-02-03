@@ -1,15 +1,11 @@
 body {
-  background: red;
+  padding: 0;
+  margin: 0;
 
 
 }
+
 
 header{
-text-align:center; 
-}
-.square {
-width: 100px;
-height: 100px;
-color: yellow;
-}
+text-align:center;
 }
