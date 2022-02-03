@@ -115,6 +115,14 @@ background-color:#EC4863;
 height: 100px;
 width:100px;
 }
+.squareB{
+position: absolute;
+top: 0px;
+left: 400px;
+background-color:#BF0449;
+height: 100px;
+width:100px;
+}
 
 
 
