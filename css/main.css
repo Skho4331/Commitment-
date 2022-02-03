@@ -11,6 +11,11 @@ body {
   width: 200vw;
 }
 
+.square {
+background-color: #A63E26;
+height: 50px;
+width:50px;
+}
 header{
 text-align:center;
 }
